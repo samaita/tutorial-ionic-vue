@@ -1,0 +1,7 @@
+{
+  "name": "Tutorial-Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
